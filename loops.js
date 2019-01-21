@@ -8,6 +8,8 @@ array.push('I am ${i} strange loop.')
 }
 return array;
 }
+
+
 function doWhileLoop(array) {
   
 var i = 0;
